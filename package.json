@@ -1,7 +1,6 @@
 {
 	"name": "sveltekit-init",
 	"version": "0.0.1",
-	"private": true,
 	"author": "muzidudu",
 	"license":"MIT",
 	"repository": {
