@@ -4,6 +4,10 @@
 	"private": true,
 	"author": "muzidudu",
 	"license":"MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/muzidudu/sveltekit_init"
+	  },
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
