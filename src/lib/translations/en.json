@@ -1,4 +1,11 @@
 {
+  "error":{
+    "shit_happens": "Oh, dear...",
+    "404": "Page not found.",
+    "500": "Server internal error.",
+    "default": "Some error occurred."
+  },
+
   "sitename":"Cilibb.cc",
   "home": "Home",
     "search":"Search",
@@ -28,5 +35,7 @@
     "type_undefined":"unknown",
     "file_noti":"Copy the link and add it to Xunlei, Baidu Netdisk offline download or other magnetic download tools for download",
     "copy_links":"Click Copy",
-    "page_now":"{{num}} Page"
+    "page_now":"{{num}} Page",
+    "current_lang": "Current Lang:"
+
   }

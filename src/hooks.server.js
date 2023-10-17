@@ -7,7 +7,6 @@ export const handle = async ({ event, resolve }) => {
 
 	// Get defined locales
 	const supportedLocales = locales.get().map((l) => l.toLowerCase());
-	console.log(supportedLocales);
 
 	// Try to get locale from `pathname`.
 	let locale = supportedLocales.find(

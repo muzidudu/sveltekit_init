@@ -10,13 +10,13 @@ const config = {
 	loaders: [
 		{
 			locale: 'en',
-			key: 'base',
-			loader: async () => (await import('./en/base.json')).default
+			key: '',
+			loader: async () => (await import('./en.json')).default
 		},
 		{
 			locale: 'zh',
-			key: 'base',
-			loader: async () => (await import('./zh/base.json')).default
+			key: '',
+			loader: async () => (await import('./zh.json')).default
 		}
 	]
 };
